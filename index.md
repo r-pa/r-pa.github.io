@@ -1,5 +1,5 @@
 ---
-title: Document Center
+title: Welcome to GitHub Pages
 published: true
 ---
 ## Welcome to GitHub Pages
